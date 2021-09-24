@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.description = "This gem will help to to deserilize and consume data from a jsonapi"
   s.authors = ["Per Sonberg"]
   s.email = "per.sonberg@gmail.com"
-  s.files = ["lib/sonapi-unwrapper.rb"]
+  s.files = ["lib/jsonapi-unwrapper.rb"]
   s.homepage =
     "https://rubygems.org/gems/jsonapi-unwrapper"
   s.license = "MIT"
