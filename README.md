@@ -37,10 +37,12 @@ json = {
         },
       ],
     }
-    
+
     parsed = JsonApiUnwrapper.call(json)
 
     parsed["id"] // 1
     parsed["name"] // Joe
     parsed["pet"]["name"] // Frank
 ```
+
+### Feel free to create a pull request
