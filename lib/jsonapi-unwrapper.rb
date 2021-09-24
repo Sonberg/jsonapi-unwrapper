@@ -36,10 +36,10 @@ class JsonApiUnwrapper
     end
 
     [
-      Hash[:id => entity["id"]],
+      Hash["id" => entity["id"]],
       entity["attributes"],
       relationships_result,
-    ].inject(:merge).deep_symbolize_keys!
+    ].inject(:merge)
   end
 
   def self.find_included(data, included)
