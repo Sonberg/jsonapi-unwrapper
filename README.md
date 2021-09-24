@@ -1,5 +1,5 @@
 # jsonapi-unwrapper
-Dead simple parser / deserilizer for json api (https://jsonapi.org/)
+Dead simple parser / deserializer for json api (https://jsonapi.org/)
 
 ## Install
 
