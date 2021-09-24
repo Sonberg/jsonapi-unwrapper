@@ -24,7 +24,6 @@ class WithSingleIncludeTest < Minitest::Test
           },
         },
       ],
-
     }
     parsed = JsonApiUnwrapper.call(json)
 
