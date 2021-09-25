@@ -1,4 +1,6 @@
 # jsonapi-unwrapper
+[![Gem Version](https://badge.fury.io/rb/jsonapi-unwrapper.svg)](https://badge.fury.io/rb/jsonapi-unwrapper)
+
 Dead simple parser / deserializer for json api (https://jsonapi.org/)
 
 ## Install
