@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.homepage =
     "https://rubygems.org/gems/jsonapi-unwrapper"
   s.license = "MIT"
+  s.metadata = { "source_code_uri" => "https://github.com/Sonberg/jsonapi-unwrapper" }
 end
