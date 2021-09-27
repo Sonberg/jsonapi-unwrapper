@@ -1,5 +1,5 @@
 # jsonapi-unwrapper
-[![Gem Version](https://badge.fury.io/rb/jsonapi-unwrapper.svg)](https://badge.fury.io/rb/jsonapi-unwrapper)
+[![Gem Version](https://badge.fury.io/rb/jsonapi-unwrapper.svg)](https://badge.fury.io/rb/jsonapi-unwrapper) ![](https://ruby-gem-downloads-badge.herokuapp.com/jsonapi-unwrapper?type=total)
 
 Dead simple parser / deserializer for json api (https://jsonapi.org/)
 
