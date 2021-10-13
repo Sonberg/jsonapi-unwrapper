@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
   s.name = "jsonapi-unwrapper"
   s.version = "0.0.2"
-  s.summary = "Gem to deserialize jsonapi payload"
-  s.description = "This gem will help to to deserialize and consume data from a jsonapi. https://github.com/Sonberg/jsonapi-unwrapper"
+  s.summary = "Deserialize JSONAPI Payloads with ease."
+  s.description = "Lightweight library to deserialize JSONAPI Payloads with ease. https://github.com/Sonberg/jsonapi-unwrapper"
   s.authors = ["Per Sonberg"]
   s.email = "per.sonberg@gmail.com"
   s.files = ["lib/jsonapi-unwrapper.rb"]
