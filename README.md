@@ -14,6 +14,9 @@ or
 gem install jsonapi-unwrapper
 ```
 
+### Having issues?
+Please let me know and create a issue
+
 ## Use
 ```
 require "jsonapi-unwrapper"
